@@ -1,0 +1,25 @@
+<students>
+    <student id="1">
+        <name>kevin</name>
+    </student>
+    <student id="2">
+        <name>renee</name>
+        <gender>female</gender>
+    </student>
+    <student id="3">
+        <name>tom</name>
+        <gender>male</gender>
+    </student>
+    <student id="4">
+        <name>jack</name>
+        <gender>male</gender>
+    </student>
+    <student id="5">
+        <name>terry</name>
+        <gender>male</gender>
+    </student>
+    <student id="6">
+        <name>larry</name>
+        <gender>male</gender>
+    </student>
+</students>

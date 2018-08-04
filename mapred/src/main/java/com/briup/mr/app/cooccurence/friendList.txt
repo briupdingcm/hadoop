@@ -1,0 +1,7 @@
+ali	,bob,jim,dee,jon,joe
+bob	,jim,ali,joe
+dee	,kia,ali
+jim	,ali,bob,kia
+joe	,ali,bob,kia,jon
+jon	,joe,ali
+kia	,dee,jim,joe

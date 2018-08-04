@@ -1,0 +1,24 @@
+joe,	jon,kia,bob,ali	
+
+jon,kia	3
+jon,bob	1
+jon,ali	2
+kia,	bob	1
+kia,ali	1
+bob,ali	1
+
+kia,	joe,jim,dee	
+dee	,kia	, ali
+ali	,dee	
+ali, jim	
+ali ,bob	
+ali, joe	
+ali ,jon
+jon,	joe	
+jon ,ali
+bob,	joe	
+bob ,ali	
+bob, jim
+jim	,kia	
+jim, bob	
+jim ,ali

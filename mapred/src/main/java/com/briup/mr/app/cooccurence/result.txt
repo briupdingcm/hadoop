@@ -1,0 +1,18 @@
+ali,bob	2
+ali,jim	1
+ali,joe	2
+ali,jon	1
+ali,kia	3
+bob,dee	1
+bob,jim	1
+bob,joe	1
+bob,jon	2
+bob,kia	2
+dee,jim	2
+dee,joe	2
+dee,jon	1
+jim,joe	3
+jim,jon	1
+joe,jon	1
+jon,kia	1
+ 
